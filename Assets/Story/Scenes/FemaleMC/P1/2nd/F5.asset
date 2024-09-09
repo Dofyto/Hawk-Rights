@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: F5
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: 'Yang mulia, hari ini saya mewakili Ibu Sarah Panjaitan dalam memperkarakan
+      Saudara Anton Jati Permana dalam perkara pencurian barang berharga yakni Kalung
+      Emas seberat 4.5 Gram. '
+    audio: {fileID: 8300000, guid: c812ffc898331814887e9df5ee707f85, type: 3}
+    speaker: {fileID: 11400000, guid: e6da4bd43e727494b93e39b1855069a4, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: e6da4bd43e727494b93e39b1855069a4, type: 2}
+      spriteIndex: 2
+      actionType: 1
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 8300000, guid: f94d7564034348043a494c746d907dba, type: 3}
+    sound: {fileID: 0}
+  - text: Berikut ada berkas perkaranya dan hasil investigasinya
+    audio: {fileID: 8300000, guid: c812ffc898331814887e9df5ee707f85, type: 3}
+    speaker: {fileID: 11400000, guid: e6da4bd43e727494b93e39b1855069a4, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: e6da4bd43e727494b93e39b1855069a4, type: 2}
+      spriteIndex: 2
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: b5a733373529cda47a4933c5b13b9389, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 200, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Terdakwa terbukti memiliki barang berharga yang adalah milik dari penggugat
+      setelah diperiksa oleh kepolisian.
+    audio: {fileID: 8300000, guid: c812ffc898331814887e9df5ee707f85, type: 3}
+    speaker: {fileID: 11400000, guid: e6da4bd43e727494b93e39b1855069a4, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: e6da4bd43e727494b93e39b1855069a4, type: 2}
+      spriteIndex: 2
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: b5a733373529cda47a4933c5b13b9389, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Oleh karena itu, kami menuntut sesuai dengan KUHP Pasal 362 dengan menuntut
+      Penjara selama 5 Tahun.
+    audio: {fileID: 8300000, guid: c812ffc898331814887e9df5ee707f85, type: 3}
+    speaker: {fileID: 11400000, guid: e6da4bd43e727494b93e39b1855069a4, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: e6da4bd43e727494b93e39b1855069a4, type: 2}
+      spriteIndex: 2
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: fc7c6413ac81ada4b8141f9d6e962978, type: 3}
+  nextScene: {fileID: 11400000, guid: 4333f6d833ff1f647b7110e812c4e4f8, type: 2}

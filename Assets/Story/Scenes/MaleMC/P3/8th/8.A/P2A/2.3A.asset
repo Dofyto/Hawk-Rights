@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 2.3A
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Ya sudah istirahat dulu kak, aku pulang dulu.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: -300, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 300, y: 0}
+      moveSpeed: 0
+    music: {fileID: 8300000, guid: 3e8ab5c0fea76f143b45ae9a1042f4f2, type: 3}
+    sound: {fileID: 0}
+  - text: Mau kemana, ini masih awal lo, kerjaan kamu sudah beres? Itu yang kasus
+      nenek itu?
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: -300, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 300, y: 0}
+      moveSpeed: 0
+    music: {fileID: 8300000, guid: 3e8ab5c0fea76f143b45ae9a1042f4f2, type: 3}
+    sound: {fileID: 0}
+  - text: Ada dating kak, sorry ya, nanti saya akan lembur beresin berkas perkara
+      deh
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: -300, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 300, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Hadeh, ya udah hati hati, aku juga ingin pulang awal
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: -300, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 300, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: 3da41e891895a344da340e655d4f253c, type: 3}
+  nextScene: {fileID: 11400000, guid: 5871217aee1457e458b500e7d4e07054, type: 2}

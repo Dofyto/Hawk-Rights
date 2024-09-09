@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
+  m_Name: C3
+  m_EditorClassIdentifier: 
+  labels:
+  - text: Baik, saksi yang dipanggil ditolak
+    nextScene: {fileID: 11400000, guid: 642bb82f9aa6f3048a6ddcfdc268b1e6, type: 2}
+  - text: 'Mohon jaksa penuntut untuk tidak memberikan pertanyaan yang mengarah '
+    nextScene: {fileID: 11400000, guid: e0f2911d4e36e7b4ea8af8035a7e13e6, type: 2}
+  - text: 'permohonan ditolak, ini adalah kasus keluarga, saksi akan berasal dari
+      keluarga '
+    nextScene: {fileID: 11400000, guid: 5a4c003c031b49a4dbf8488f72c408d9, type: 2}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
+  m_Name: FC8
+  m_EditorClassIdentifier: 
+  labels:
+  - text: Keberatan diterima, penuntut umum dimohon jangan bertanya diluare kasus
+    nextScene: {fileID: 11400000, guid: d7347bcbfc6a4d34ea9d8db5c061e68b, type: 2}
+  - text: Keberatan diterima, dan saudara terdakwa mohon hormat pada persidangan
+    nextScene: {fileID: 11400000, guid: d375fc21c17d04c4590cac8ec0e4a1cf, type: 2}
+  - text: 'Keberatan diterima, penuntut umum jangan memperluas kasus diluar tuduhan '
+    nextScene: {fileID: 11400000, guid: d7347bcbfc6a4d34ea9d8db5c061e68b, type: 2}
+  - text: Keberatan ditolak
+    nextScene: {fileID: 11400000, guid: a8420461fca7a0c418a89d02abfb22fc, type: 2}

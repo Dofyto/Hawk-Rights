@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 5A
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Tidak
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 48b2116d177062b4fa965a58d6d45945, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 48b2116d177062b4fa965a58d6d45945, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: 4e924fb54e7a0fb42acdc5b2cedfd5f8, type: 3}
+  nextScene: {fileID: 11400000, guid: f7b394ed962c1c14cac38bc5c86bef42, type: 2}

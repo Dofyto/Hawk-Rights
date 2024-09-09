@@ -1,0 +1,484 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: . . .
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 8300000, guid: 3e8ab5c0fea76f143b45ae9a1042f4f2, type: 3}
+    sound: {fileID: 0}
+  - text: Selamat ya so...
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: eh sekarang harusnya yang mulia.
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 1
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Selamat atas pelantikanya yang mulia hakim
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Ah, panggil saya seperti biasa saja
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Sinta ada kasus apa yang akan saya pimpin?
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Gpp nih, nanti dianggap gak sopan, awas ya tiba-tiba marah
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Oh ya, untuk sidang pertama, kasusnya pencurian oleh keluarga sendiri,
+      kasusnya anak mencuri dari ibu tirinya.
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Emang motifnya apa?
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Katanya itu harta milik mendiang ibunya yang meninggal
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 1
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Emang apa yang dicuri?
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Sebuah kalung, harganya juga tidak mahal sekali, soalnya hanya 4 gram
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tapi ini masalah keluarga, kenapa jadi kasus hukum
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 7
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Keluarganya memperkarakan, anaknya tidak mengaku salah, drama banget deh
+      kak
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 7
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 5
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Memangnya ibunya tidak memberikan saja kalung itu?
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 5
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Kasusnya seperti ini, keluarga ini adalah keluarga kaya raya, bapaknya
+      pemilik PT Kayu Jati Permana, yang exspor impornya adalahlah 20% kota Batam.
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 5
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Sebelum menjadi kaya raya, istrinya yang pertama meninggal dan meninggalkan
+      anaknya, yaitu terdakwa, Anton.
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 7
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Lalu bapaknya menikah dengan istri lain, yaitu Penggugat, Ibu Sarah, nah
+      disini keluarganya jadi sangat kaya. Sampai tahun lalu bapaknya meninggal
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 7
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Nah kasusnya jadi panjang disini, bapaknya menyerahkan warisan semuanya
+      ke istrinya dan tidak meninggalkan apapun untuk anaknya.
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 7
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Sebenarnya sih Anton-nya juga sudah ada usaha sendiri.
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tunggu dulu, jadi terdakwa itu pengusaha juga?
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Iya, tahu kan eskrim Ximue? Anton itu pemiliknya
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Jadi terdakwa itu bukan orang gak punya ya?
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 3
+      actionType: 0
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Makanya kak, dibilang dramaaaaaa banget
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 5
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Okay terus gimana?
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Jadi gini, anaknya sebelum meninggalkan rumah, dia mengambil kalung yang
+      dulu milik ibunya, ibu kandung maksudnya
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Nah bu sarah melihat dan gak terima, katanya itu diwariskan ke dia, jadi
+      Anton tidak berhak mengambil apapun dari rumah itu
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Wah, ini kasus keluarga yang dibesar-besarkan ya
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Iya, kalo menurut kakak gimana?
+    audio: {fileID: 8300000, guid: b0bfca9991180db49bfecfd37d408c04, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: 3da41e891895a344da340e655d4f253c, type: 3}
+  nextScene: {fileID: 11400000, guid: ec653d3b374221d408db5c177e47d902, type: 2}

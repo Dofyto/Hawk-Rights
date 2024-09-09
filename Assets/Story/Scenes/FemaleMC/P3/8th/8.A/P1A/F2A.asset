@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: F2A
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Kalung itu adalah milik ibu saya, ibu saya tidak pernah berpesan bahwa
+      kalung ini akan diberikan kepada istri ayah saya
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+      spriteIndex: 4
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: 0ea0993877f37dc4fa0a75f1878f7287, type: 3}
+  nextScene: {fileID: 11400000, guid: 5cf9ba9a494a23848a8185fb6aac56c3, type: 2}

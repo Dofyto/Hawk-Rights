@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
+  m_Name: C3.1A.1
+  m_EditorClassIdentifier: 
+  labels:
+  - text: 'pernahkah anda melihat penggugat menggunakan kalung tersebut? '
+    nextScene: {fileID: 11400000, guid: 2a70f408a18e9ab40ae4bea70eac077e, type: 2}
+  - text: 'pernahkan anda melihat kalung tersebut di ruangan penggugat? '
+    nextScene: {fileID: 11400000, guid: eaac37d9d4b537448bf85b8946961e35, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e6a862dae1ccf488ae4d4570f9f88c, type: 3}
+  m_Name: Sarah
+  m_EditorClassIdentifier: 
+  speakerName: Sarah
+  textColor: {r: 1, g: 0, b: 0, a: 1}
+  sprites:
+  - {fileID: 21300000, guid: 6812b38b342d8e44b9678c6e26546345, type: 3}
+  - {fileID: 21300000, guid: 04a48f269a9c08a488710ac1776ab7cb, type: 3}
+  - {fileID: 21300000, guid: 148a9cade12bff74896421e7d0fdb797, type: 3}
+  - {fileID: 21300000, guid: 8d535687719d3d84392dc347342b4d2d, type: 3}
+  - {fileID: 21300000, guid: b7a09f496baef2743b2fae5d2f7dd87f, type: 3}
+  - {fileID: 21300000, guid: b45679a55dcc4b349b19425f2942c643, type: 3}
+  prefab: {fileID: -400084230080365608, guid: 3654be1ccf5f3424682310ba8aa376b6, type: 3}

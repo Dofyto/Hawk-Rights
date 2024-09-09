@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 13A
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Baik yang mulia, saya akan mempercayai anda
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Ibu Sarah adalah sekretaris ayah saya ketika ibu saya masih hidup, dan
+      juga adalah salah satu penjaga kami waktu anak-anak, salah satu yang saya senangi
+      malahan. Saya juga mengetahui ibu saya dan ibu sarah berteman baik.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 8300000, guid: f94d7564034348043a494c746d907dba, type: 3}
+    sound: {fileID: 0}
+  - text: Namun setelah ibu saya sakit, ayah saya jadi lebih dekat dengan ibu Sarah,
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Sampai ketika ibu saya meninggal, ayah saya malah sedang dinas diluar kota
+      bersama bu Sarah juga
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+      spriteIndex: 4
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Dan belum 1 minggu ibu dikubur, ayah memberi tahu kami bahwa akan menikahi
+      ibu sarah
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+      spriteIndex: 5
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Yang mulia, pada waktu itu saya masih 8 Tahun, tapi saya yang anak kecil
+      saja tahu itu artinya apa
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+      spriteIndex: 4
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Ibu Sarah menghancurkan keluarga saya
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+      spriteIndex: 5
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 8300000, guid: f94d7564034348043a494c746d907dba, type: 3}
+    sound: {fileID: 0}
+  - text: Jadi panggilan apa yang paling sesuai kepadanya, pantaskah saya memanggil
+      dia ibu?
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+      spriteIndex: 5
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 8300000, guid: f94d7564034348043a494c746d907dba, type: 3}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: 0ea0993877f37dc4fa0a75f1878f7287, type: 3}
+  nextScene: {fileID: 11400000, guid: 6b1b1cd113402ae4aaac3a3c5ba4508d, type: 2}

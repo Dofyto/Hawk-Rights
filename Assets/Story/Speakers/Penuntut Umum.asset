@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e6a862dae1ccf488ae4d4570f9f88c, type: 3}
+  m_Name: Penuntut Umum
+  m_EditorClassIdentifier: 
+  speakerName: Penuntut
+  textColor: {r: 1, g: 0, b: 0, a: 1}
+  sprites:
+  - {fileID: 21300000, guid: 61ea705d0f3f2dd4cad3c2858b40bc32, type: 3}
+  - {fileID: 21300000, guid: 12f73c471d43b80419bf425dc7bda6ef, type: 3}
+  - {fileID: 21300000, guid: 248e2d97116b86d4394017719b485a7e, type: 3}
+  - {fileID: 21300000, guid: 55adfc80bdac127429715307c9ebc8f1, type: 3}
+  - {fileID: 21300000, guid: 867bc5de312f4ca4fb51fbf43a06d936, type: 3}
+  prefab: {fileID: -400084230080365608, guid: e27d44d315c16764bbecf1fdf5d9a4ad, type: 3}

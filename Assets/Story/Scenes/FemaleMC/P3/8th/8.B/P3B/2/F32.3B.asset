@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: F32.3B
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Secara umum ya, apa yang disampaikan oleh Anton tidak bisa saya katakan
+      salah. Kalung itu aslinya adalah milik ibu biologis dari Anton, ibu Sekar Jati
+      Panjaitan
+    audio: {fileID: 8300000, guid: f94d7564034348043a494c746d907dba, type: 3}
+    speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Namun sebelum meninggal, bu sekar menitipkan saya bapak dan anak-anak. '
+    audio: {fileID: 8300000, guid: f94d7564034348043a494c746d907dba, type: 3}
+    speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+      spriteIndex: 2
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Saya tidak tahu menahu dengan pesan bu Sekar kepada keluarga tentang dikubur
+      bersama kalung itu karena bapak juga ingin mengenang bu Sekar sehingga kalung
+      itu tidak dikubur namun diletakkan saja di meja.
+    audio: {fileID: 8300000, guid: f94d7564034348043a494c746d907dba, type: 3}
+    speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+      spriteIndex: 2
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Saya memang tidak pernah menggunakan kalung itu karena demi menghormati
+      beliau
+    audio: {fileID: 8300000, guid: f94d7564034348043a494c746d907dba, type: 3}
+    speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+      spriteIndex: 2
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Mengenai hubungan kami, ya karena kesibukan dan sejarah kami, kami tidak
+      pernah dekat, saya juga tidak pernah memanggilnya sebagai anak, karena tidak
+      ada sejarah cukup untuk itu
+    audio: {fileID: 8300000, guid: f94d7564034348043a494c746d907dba, type: 3}
+    speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+      spriteIndex: 2
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: 0ea0993877f37dc4fa0a75f1878f7287, type: 3}
+  nextScene: {fileID: 11400000, guid: 20b7d49d95c82df47beeb18c59c4b981, type: 2}

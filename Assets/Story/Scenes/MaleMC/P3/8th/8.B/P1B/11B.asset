@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 11B
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Baiklah yang mulia,
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+      spriteIndex: 2
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Secara umum hubungan kami tidak bisa dikatakan buruk, namun juga tidak
+      bisa dikatakan baik, '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Saya tidak terlalu mengenal bu Sarah karena pada saat ayah saya dan ibu
+      Sarah menikah, saya sudah bersekolah diluar negeri dan tidak berjumpa sesering
+      itu dengan ibu Sarah
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "Seingat saya, sampai saya lulus S3 saya hanya pernah makan bersama dia
+      kurang dari 10 kali. Tidak ada memori cukup untuk saya memanggil dia dengan
+      \u201Cibu\u201D"
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: db666290b8c2e594baa63260e67963c8, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: 0ea0993877f37dc4fa0a75f1878f7287, type: 3}
+  nextScene: {fileID: 11400000, guid: 5d291a520bb42954082fbf804a6805d1, type: 2}

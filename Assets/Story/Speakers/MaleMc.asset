@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e6a862dae1ccf488ae4d4570f9f88c, type: 3}
+  m_Name: MaleMc
+  m_EditorClassIdentifier: 
+  speakerName: Adam
+  textColor: {r: 0.6739578, g: 0, b: 1, a: 1}
+  sprites:
+  - {fileID: 21300000, guid: 73817ebb0019e8140bd9eb9ca480f892, type: 3}
+  - {fileID: 21300000, guid: 4808f402603aa8b4f9bb1876c7e58e0b, type: 3}
+  - {fileID: 21300000, guid: c3927f6eb90b9a24989f63113cd28e4b, type: 3}
+  - {fileID: 21300000, guid: e96e34e3b4c708e4a9bafd02ddbc6760, type: 3}
+  - {fileID: 21300000, guid: 5787295c56174c34f9736ea59a3b468d, type: 3}
+  - {fileID: 21300000, guid: c7de3e358e91b274abd3ad2dd87e554a, type: 3}
+  - {fileID: 21300000, guid: 1a6c563d53db6f54aa07a14b8950f9d2, type: 3}
+  - {fileID: 21300000, guid: 3006d75ee9ae51b49a03d8ff8c49a103, type: 3}
+  - {fileID: 21300000, guid: 21cecbdd6dc1370449785f4cf30f3b8d, type: 3}
+  prefab: {fileID: -400084230080365608, guid: b63e65cd1c58ac24dbd937d543b10442, type: 3}

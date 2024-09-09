@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e6a862dae1ccf488ae4d4570f9f88c, type: 3}
+  m_Name: Kepala Hakim
+  m_EditorClassIdentifier: 
+  speakerName: Hakim
+  textColor: {r: 1, g: 0, b: 0, a: 1}
+  sprites:
+  - {fileID: 21300000, guid: d350fb12c37e2e346bc18fd48cafd83f, type: 3}
+  - {fileID: 21300000, guid: ba76c091b795ea847bf1657d9a4519ea, type: 3}
+  prefab: {fileID: -400084230080365608, guid: 47e5301439c18024984a3091cedb8ac0, type: 3}

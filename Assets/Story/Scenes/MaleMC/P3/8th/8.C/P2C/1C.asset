@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 1C
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: ...
+    audio: {fileID: 8300000, guid: 3e8ab5c0fea76f143b45ae9a1042f4f2, type: 3}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 2
+      coords: {x: -300, y: 0}
+      moveSpeed: 3
+    music: {fileID: 8300000, guid: 3e8ab5c0fea76f143b45ae9a1042f4f2, type: 3}
+    sound: {fileID: 0}
+  - text: Halo kak~, bagaimana persidangan hari ini?
+    audio: {fileID: 8300000, guid: 3e8ab5c0fea76f143b45ae9a1042f4f2, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 300, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: -300, y: 0}
+      moveSpeed: 3
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Anak orang kaya emang tidak punya akhlak atau karena tidak dibesarkan oleh
+      orang tua secara normal, kok tidak sopan sekali ya
+    audio: {fileID: 8300000, guid: 3e8ab5c0fea76f143b45ae9a1042f4f2, type: 3}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 1
+      actionType: 4
+      coords: {x: 300, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: -300, y: 0}
+      moveSpeed: 3
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Wah kenapa tuh
+    audio: {fileID: 8300000, guid: 3e8ab5c0fea76f143b45ae9a1042f4f2, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 1
+      actionType: 4
+      coords: {x: 300, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: -300, y: 0}
+      moveSpeed: 3
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: "Kamu bayangin deh, masa iya dia memanggil ibu tirinya dengan sebutan \u201Cistri
+      ayah saya\u201D, kurang aja bener"
+    audio: {fileID: 8300000, guid: 3e8ab5c0fea76f143b45ae9a1042f4f2, type: 3}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 300, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: -300, y: 0}
+      moveSpeed: 3
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Ya kita kan gak tahu sejarahnya gimana, semoga besok kita cross reference
+      dengan terdakwa akan lebih terbuka hasilnya
+    audio: {fileID: 8300000, guid: 3e8ab5c0fea76f143b45ae9a1042f4f2, type: 3}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 300, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: -300, y: 0}
+      moveSpeed: 3
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Pengennya sih gitu, tapi melihat persidangan hari ini terdakwa tidak hadir,
+      entah bagaimana ketika dia mendengar hal-hal yang disampaikan anaknya, wah,
+      saya orang luar aja malu
+    audio: {fileID: 8300000, guid: 3e8ab5c0fea76f143b45ae9a1042f4f2, type: 3}
+    speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 300, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: eddfe009b49d3484d8dfb5498d6a2f17, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: -300, y: 0}
+      moveSpeed: 3
+    music: {fileID: 8300000, guid: 3e8ab5c0fea76f143b45ae9a1042f4f2, type: 3}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: 3da41e891895a344da340e655d4f253c, type: 3}
+  nextScene: {fileID: 11400000, guid: ef7ccc2ca2eed054b927247cc8e2ab5a, type: 2}

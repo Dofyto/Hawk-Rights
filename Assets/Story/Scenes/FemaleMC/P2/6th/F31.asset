@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: F31
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Ya kita lihat dipersidangan besok, kak aku pulang cepat ya, mau pergi dating
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+      spriteIndex: 6
+      actionType: 4
+      coords: {x: -100, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Hadeh, ya wes
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: fa0781b12625a7044a716bdf7c9f56bb, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: -100, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Nyantai dulu ah
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+      spriteIndex: 1
+      actionType: 4
+      coords: {x: -100, y: 0}
+      moveSpeed: 1
+    - speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+      spriteIndex: 1
+      actionType: 2
+      coords: {x: -500, y: 0}
+      moveSpeed: 2
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Tok tok
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 0f7b47b1acf7cb640a1d4aa2baa1e4ff, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: -500, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Ya, ada apa?
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: -500, y: 0}
+      moveSpeed: 3
+    - speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+      spriteIndex: 3
+      actionType: 2
+      coords: {x: -100, y: 0}
+      moveSpeed: 3
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Yang mulia, boleh mengganggu sebentar?
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 48b2116d177062b4fa965a58d6d45945, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: -100, y: 0}
+      moveSpeed: 3
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Baik silahkan masuk, dan tidak perlu panggil saya dengan sebutan itu
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: -100, y: 0}
+      moveSpeed: 3
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Mohon maaf sebelumnya, terkait kasus ini, saya dan penuntut umum berdiskusi
+      sebelum saya kesini.
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 48b2116d177062b4fa965a58d6d45945, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: -100, y: 0}
+      moveSpeed: 3
+    - speaker: {fileID: 11400000, guid: 48b2116d177062b4fa965a58d6d45945, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 600, y: 0}
+      moveSpeed: 3
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: 'Kasus ini rasanya terlalu besar untuk urusan pengadilan. Jikalau boleh,
+      bolehkah pada persidangan besok, anda meminta keduanya untuk bermusyawarah
+      saja. '
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 48b2116d177062b4fa965a58d6d45945, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: -100, y: 0}
+      moveSpeed: 3
+    - speaker: {fileID: 11400000, guid: 48b2116d177062b4fa965a58d6d45945, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Ya memang tidak sesuai dengan tata cara sidang, tapi ini rasanya tidak
+      perlu dibawa ke persidangan dan tidak ada yang benar2 salah
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 48b2116d177062b4fa965a58d6d45945, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: -100, y: 0}
+      moveSpeed: 3
+    - speaker: {fileID: 11400000, guid: 48b2116d177062b4fa965a58d6d45945, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Saya juga berpikir hal ini tidak penting
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 45aec8bda72677d44a0ca3f6352153fc, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: -100, y: 0}
+      moveSpeed: 3
+    - speaker: {fileID: 11400000, guid: 48b2116d177062b4fa965a58d6d45945, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 600, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: 3da41e891895a344da340e655d4f253c, type: 3}
+  nextScene: {fileID: 11400000, guid: 8e106576e9cdeef42aafc05632677dc4, type: 2}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0e6a862dae1ccf488ae4d4570f9f88c, type: 3}
+  m_Name: Maid
+  m_EditorClassIdentifier: 
+  speakerName: Sumarni
+  textColor: {r: 1, g: 0.04995039, b: 0, a: 1}
+  sprites:
+  - {fileID: 21300000, guid: f361c386388366844a0f6800018c8585, type: 3}
+  - {fileID: 21300000, guid: a901a86cf68d2a746a62c9e530e3fd3d, type: 3}
+  - {fileID: 21300000, guid: 5a3588a9608e46b4eae2a8f702f7e846, type: 3}
+  - {fileID: 21300000, guid: a762883f42a71ac4d986d4838c975a9c, type: 3}
+  - {fileID: 21300000, guid: eacd1f2a92d656e4ebcddacf96b3824d, type: 3}
+  - {fileID: 21300000, guid: 244976f82497c1849b9c4955adaf34ab, type: 3}
+  prefab: {fileID: -400084230080365608, guid: 9c088b0302f798c43aa65b8f35b5f48c, type: 3}

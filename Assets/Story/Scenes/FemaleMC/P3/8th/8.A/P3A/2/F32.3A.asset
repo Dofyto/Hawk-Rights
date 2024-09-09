@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: F32.3A
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Karena dipersidangan yang sebelumnya Anton membuka kisahnya, saya rasanya
+      perlu membalas itu
+    audio: {fileID: 8300000, guid: f94d7564034348043a494c746d907dba, type: 3}
+    speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 8300000, guid: f94d7564034348043a494c746d907dba, type: 3}
+    sound: {fileID: 0}
+  - text: Yang mulia, benar, ibu dari Anton, adalah teman baik saya, kami menjadi
+      teman karena saya sering menemani bapak untuk keluar kota untuk urusan bisnis.
+    audio: {fileID: 8300000, guid: f94d7564034348043a494c746d907dba, type: 3}
+    speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Bu Sekar sering sakit-sakitan, oleh karena itu tidak bisa menemani. Jadi
+      beliau sering berpesan untuk menitipkan bapak kesaya untuk dijaga.
+    audio: {fileID: 8300000, guid: f94d7564034348043a494c746d907dba, type: 3}
+    speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Bukti dari pertemanan kami adalah kalung itu, foto ini
+    audio: {fileID: 8300000, guid: f94d7564034348043a494c746d907dba, type: 3}
+    speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: b5a733373529cda47a4933c5b13b9389, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: 750, y: 200}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  - text: Menunjukkan kalung itu adalah kalung pasangan, identik dan sama persis,
+      kecuali di bagian dalan kalung tersebut, yang mana diukir dengan inisial nama
+      kami, SP dan SJP.
+    audio: {fileID: 8300000, guid: f94d7564034348043a494c746d907dba, type: 3}
+    speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 9a9f383a47a0c274cba5152a4d4820a9, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: b5a733373529cda47a4933c5b13b9389, type: 2}
+      spriteIndex: 1
+      actionType: 4
+      coords: {x: 750, y: 200}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: 0ea0993877f37dc4fa0a75f1878f7287, type: 3}
+  nextScene: {fileID: 11400000, guid: 1d5f8247acd2ce94f82743b7e6c0c4f7, type: 2}

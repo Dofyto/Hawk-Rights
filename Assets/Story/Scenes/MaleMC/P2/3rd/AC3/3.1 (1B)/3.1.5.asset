@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 3.1.5
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Apakah saudara pernah melihat kalung emas ini sebelumnya?
+    audio: {fileID: 0}
+    speaker: {fileID: 11400000, guid: e6da4bd43e727494b93e39b1855069a4, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: e6da4bd43e727494b93e39b1855069a4, type: 2}
+      spriteIndex: 3
+      actionType: 4
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: b5a733373529cda47a4933c5b13b9389, type: 2}
+      spriteIndex: 0
+      actionType: 4
+      coords: {x: 200, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+    sound: {fileID: 0}
+  background: {fileID: 21300000, guid: fc7c6413ac81ada4b8141f9d6e962978, type: 3}
+  nextScene: {fileID: 11400000, guid: c0ce41a2865a0b74e838f6272fcbc454, type: 2}

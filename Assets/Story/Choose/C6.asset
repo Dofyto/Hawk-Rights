@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
+  m_Name: C6
+  m_EditorClassIdentifier: 
+  labels:
+  - text: Banget, harusnya cukup dengan musyawarah, ngapain sampai pengadilan
+    nextScene: {fileID: 11400000, guid: 17a8d7db46ecb4145964dc988a89c15e, type: 2}
+  - text: lumayan gak penting, soalnya kalungnya tinggal dibalikin, selesai
+    nextScene: {fileID: 11400000, guid: 17a8d7db46ecb4145964dc988a89c15e, type: 2}
+  - text: gak penting, di pengugat kan orang kaya, kasih ajalah kalungnya knp sih,
+      kalung biasa juga
+    nextScene: {fileID: 11400000, guid: 17a8d7db46ecb4145964dc988a89c15e, type: 2}
